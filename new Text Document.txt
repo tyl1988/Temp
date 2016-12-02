@@ -1,2 +1,3 @@
 This is a new Text document
 I add a new line
+add a second line to my document
